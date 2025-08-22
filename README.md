@@ -1,6 +1,6 @@
 🩺 SIRS Analysis – Sepsis Monitoring Dashboard
 
-![Dashboard](./dashboard.png)
+![Dashboard](./dashboard.png.png)
 
 
 📌 Project Overview
@@ -43,7 +43,7 @@ Compared average trigger hours across age groups
 
 Implemented alert logging to simulate real-time monitoring
 
-🛠️ Tools & Skills
+🛠Tools & Skills
 
 SQL: Data extraction and cleaning
 
